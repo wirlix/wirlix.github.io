@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wirlix</title>
+    <description>Priyanka &amp; Sam, priyanka@wirlix.com,sam@wirlix.com
+</description>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 28 Nov 2016 21:16:47 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Nov 2016 21:16:47 +0000</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Wirlix &amp; Beyond</title>
+        <description>&lt;p&gt;Wirlix &amp;amp; beyond will host details of product roadmap ahead &amp;amp; integrations upcoming details.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Nov 2016 09:31:49 +0000</pubDate>
+        <link>http://0.0.0.0:4000/jekyll/update/2016/11/28/wirlix-beyond.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/jekyll/update/2016/11/28/wirlix-beyond.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Wilrix Intro</title>
+        <description>&lt;p&gt;Introduction about the Wilrix platform goes here.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 Nov 2016 09:31:49 +0000</pubDate>
+        <link>http://0.0.0.0:4000/introduction/2016/11/27/wilrix-intro.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/introduction/2016/11/27/wilrix-intro.html</guid>
+        
+        
+        <category>introduction</category>
+        
+      </item>
+    
+  </channel>
+</rss>
